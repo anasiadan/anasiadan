@@ -19,7 +19,7 @@
 **AI & ML:** Amazon Bedrock, Amazon SageMaker AI, Generative AI, Monte Carlo Simulations  
 
 ## Recent Experience
-🏢 **Cloud Enablers** (2023-Present) - *Data Analyst/Data Scientist*  
+☁️ **Cloud Enablers** (2023-Present) - *Data Analyst/Data Scientist*  
 🧬 **Captario** (2021-2023) - *Senior Data Analyst* (Pharmaceutical consulting)  
 
 ## Featured Projects
@@ -45,9 +45,9 @@
 </div>
 
 ## Education
-🎓 **Data Science** - EC Utbildning (2020-2022)  
-🎓 **Physics & Astronomy** - Chalmers University (2016-2019)  
-🎓 **Physics** - National & Kapodistrian University of Athens (2007-2016)  
+🎓 **Data Science** - EC Utbildning  
+🎓 **Physics & Astronomy** - Chalmers University  
+🎓 **Physics** - National & Kapodistrian University of Athens 
 
 ## Let's Connect!
 📧 [anasiadan@gmail.com](mailto:anasiadan@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/a-danopoulou) | 📍 Gothenburg, Sweden
