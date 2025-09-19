@@ -25,7 +25,7 @@
 ## Featured Projects
 - 📈 [Stock Market Prediction](https://github.com/anasiadan/Stock-Market-Prediction-Project) - ML models for Big Tech stock forecasting with comprehensive EDA
 - 🤖 [AI Development Environment](https://github.com/anasiadan/ollama-jupyter-devcontainer) - Docker setup for local LLM experimentation
-- 📊 Travel Data Dashboard - Interactive Tableau visualization *(coming soon)*
+- 📊 [Interactive Tableau visualization] (https://github.com/anasiadan/travel-analytics-tableau-dashboard) - Travel Data Dashboard
 - ☁️ AWS Data Pipeline - End-to-end cloud analytics solution *(coming soon)*
 
 ## Industry Impact
