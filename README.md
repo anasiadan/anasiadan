@@ -1,6 +1,6 @@
 # Hi, I'm Anastasia Danopoulou 👋
 
-**Data Analyst | Data Scientist | Machine Learning Engineer**
+**Data Analyst | Data Scientist | Data Engineer | Machine Learning Engineer**
 
 🔬 Background in Physics & Astronomy | 📊 4+ years in Data Analytics | ☁️ AWS Certified
 
@@ -23,6 +23,8 @@
 🧬 **Captario** (2021-2023) - *Senior Data Analyst* (Pharmaceutical consulting)  
 
 ## Featured Projects
+- 🔄 [Pokédex Analytics Pipeline](https://github.com/anasiadan/duckdb-dbt-streamlit-project) - End-to-end data pipeline with dbt, DuckDB, Streamlit and Docker
+- 🧬 [Unified Identity Model](https://github.com/anasiadan/unified-identity-model) - dbt model consolidating candidate data from multiple systems into a single identity table
 - 📈 [Stock Market Prediction](https://github.com/anasiadan/Stock-Market-Prediction-Project) - ML models for Big Tech stock forecasting with comprehensive EDA
 - 🤖 [AI Development Environment](https://github.com/anasiadan/ollama-jupyter-devcontainer) - Docker setup for local LLM experimentation
 - 📊 [Interactive Tableau visualization](https://github.com/anasiadan/travel-analytics-tableau-dashboard) - Travel Data Dashboard
