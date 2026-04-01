@@ -17,6 +17,7 @@
 **BI Tools:** Tableau, Power BI, Looker, Amazon QuickSight  
 **Databases:** MySQL, Snowflake, Apache Iceberg  
 **AI & ML:** Amazon Bedrock, Amazon SageMaker AI, Generative AI, Monte Carlo Simulations  
+**Data Engineering:** dbt, DuckDB, Apache Spark, Docker Compose
 
 ## Recent Experience
 ☁️ **Cloud Enablers** (2023-Present) - *Data Analyst/Data Scientist*  
